@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nlk:home|Door43 (nlk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nlk|d43-nlk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nlk/archive/master.zip|d43-nlk.zip]]
+
+**Recent Changes**
+{{changes>ns = nlk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nlk|Ethnologue data]]
+
